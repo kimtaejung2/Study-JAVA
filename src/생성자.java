@@ -9,7 +9,6 @@ class D { //생성자 오버로딩
     D(String a){
         System.out.println("String");
     }
-
 }
 
 public class 생성자 {
